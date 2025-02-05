@@ -51,12 +51,15 @@ You can customize your profile from the **settings**:
 ### 🖼️ **Screenshots**
 
 **1. Dark Purple Twist**
+
 ![Image Alt Text](./images/Dark-Purple.png);
 
 **2. Dark Theme**
+
 ![Image Alt Text](./images/Dark-Theme.png);
 
 **3. Purple Twist**
+
 ![Image Alt Text](./images/Purple-Twist.png);
 
 ### 🔗 **Links**
