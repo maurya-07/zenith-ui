@@ -1,0 +1,44 @@
+{
+  "name": "zenith-ui",
+  "displayName": "Zenith UI",
+  "description": "Dive into the Elegance of Darkness with a Purple Twist!",
+  "publisher": "vishalmaurya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maurya-07/zenith-ui.git"
+  },
+  "keywords": [
+    "dark theme",
+    "purple theme",
+    "dark purple",
+    "purple",
+    "theme"
+  ],
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Twist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple.json"
+      },
+      {
+        "label": "Dark Purple Twist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Purple.json"
+      },
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Theme.json"
+      }
+    ]
+  },
+  "icon": "images/profile.png"
+}
