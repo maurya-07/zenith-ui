@@ -63,6 +63,7 @@ You can customize your profile from the **settings**:
 
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=VishalMaurya.zenith-ui)
 
+- [GitHub Repository](https://github.com/maurya-07/zenith-ui.git)
 ---
 
 ### ✨ **License**
