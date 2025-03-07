@@ -59,7 +59,7 @@ You can customize your profile from the **settings**:
 
 ![Image Alt Text](./images/Dark-Theme.png);
 
-**3. Dark Theme**
+**3. Deep Purple**
 
 ![Image Alt Text](./images/Deep-Purple.png);
 
