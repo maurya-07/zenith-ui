@@ -6,13 +6,14 @@ Zenith UI is a modern **dark theme** for Visual Studio Code, designed to bring e
 
 ## 🎨 Theme Variants  
 
-Zenith UI comes with three unique themes:  
+Zenith UI comes with four unique themes:  
 
 - **🔮 Dark Purple Twist** – A rich, deep **purple aesthetic**, blending futuristic vibes with clarity.  
-- **🌑 Dark Theme** – A pure **high-contrast dark mode**, reducing eye strain for long coding sessions.  
-- **🌿 Purple Twist** – A stylish combination of deep purples with subtle highlights for a **modern** look.  
+- **🍁 Dark Theme** – A pure **high-contrast dark mode**, reducing eye strain for long coding sessions.  
+- **🌿 Deep Purple** – A stylish combination of deep purples with subtle highlights for a modern look. 
+- **🎀 Purple Twist** – Perfect for those who love a **sleek**, **futuristic** touch with a hint of elegance.  
 
-Each theme ensures **perfect contrast**, **smooth syntax highlighting**, and **enhanced readability**.  
+Each theme ensures **perfect contrast**, **smooth syntax highlighting**, and **enhanced readability**.
 
 ---
 
@@ -58,7 +59,11 @@ You can customize your profile from the **settings**:
 
 ![Image Alt Text](./images/Dark-Theme.png);
 
-**3. Purple Twist**
+**3. Dark Theme**
+
+![Image Alt Text](./images/Deep-Purple.png);
+
+**4. Purple Twist**
 
 ![Image Alt Text](./images/Purple-Twist.png);
 

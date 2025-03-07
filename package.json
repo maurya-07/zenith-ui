@@ -11,10 +11,11 @@
     "dark theme",
     "purple theme",
     "dark purple",
+    "deep purple",
     "purple",
     "theme"
   ],
-  "version": "0.0.3",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -37,6 +38,11 @@
         "label": "Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Theme.json"
+      },
+      {
+        "label": "Deep Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep-Purple.json"
       }
     ]
   },
