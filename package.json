@@ -12,10 +12,11 @@
     "purple theme",
     "dark purple",
     "deep purple",
+    "black purple",
     "purple",
     "theme"
   ],
-  "version": "0.1.6",
+  "version": "0.1.9",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -30,7 +31,7 @@
         "path": "./themes/Purple.json"
       },
       {
-        "label": "Dark Purple Twist",
+        "label": "Dark Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Purple.json"
       },
@@ -43,6 +44,11 @@
         "label": "Deep Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/Deep-Purple.json"
+      },
+      {
+        "label": "Black Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black-Purple.json"
       }
     ]
   },
