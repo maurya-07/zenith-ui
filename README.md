@@ -1,4 +1,12 @@
+<div align="center">
+
+<a href="https://zenithui.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./images/profile.png" alt="Zenith UI Logo" width="150" height="150">
+</a>
+
 # Zenith UI - VS Code Theme
+
+</div>
 
 ## Dive into the Elegance of Darkness with a Purple Twist!
 
