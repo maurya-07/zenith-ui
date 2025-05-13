@@ -16,7 +16,7 @@
     "purple",
     "theme"
   ],
-  "version": "0.1.9",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.96.0"
   },
