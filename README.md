@@ -86,7 +86,7 @@ You can customize your profile from the **settings**:
 
 - [GitHub Repository](https://github.com/maurya-07/zenith-ui.git)
 
-- [Our Officail Site](zenithui.netlify.app)
+- [Our Official Site](zenithui.netlify.app)
 ---
 
 ### ✨ **License**
