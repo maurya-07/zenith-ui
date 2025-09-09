@@ -87,14 +87,18 @@ You can customize your profile from the **settings**:
 - [GitHub Repository](https://github.com/maurya-07/zenith-ui.git)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Our Official Site](zenithui.netlify.app)
 =======
 - [Our Offcial Site](https://zenithui.netlify.app)
 >>>>>>> a41cf58 (readme)
+=======
+- [Our Extension Site](https://zenithui.netlify.app)
+>>>>>>> ea0ffcc (Updated files)
 ---
 
 ### ✨ **License**
 
-This theme is available under the **MIT License**.
+This theme is available under the [MIT License](./LICENSE).
 
 **Enjoy!**
